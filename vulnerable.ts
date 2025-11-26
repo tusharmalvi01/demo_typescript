@@ -1,5 +1,5 @@
 // Example TypeScript file with potential vulnerabilities
-
+// Note: This code is intentionally vulnerable for educational purposes only.
 // 1. Use of eval (dangerous)
 function runUserCode(userInput: string) {
   // Vulnerability: eval can execute arbitrary code
